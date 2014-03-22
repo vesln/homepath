@@ -1,6 +1,6 @@
 {
   "name": "homepath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return the home directory of the current OS",
   "author": "Veselin Todorov <hi@vesln.com>",
   "license": "MIT",
